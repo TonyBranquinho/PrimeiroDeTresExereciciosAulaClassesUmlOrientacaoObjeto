@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PrimeiroDeTresExereciciosAulaClassesUmlOrientacaoObjeto/1.0.0": {
+        "runtime": {
+          "PrimeiroDeTresExereciciosAulaClassesUmlOrientacaoObjeto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PrimeiroDeTresExereciciosAulaClassesUmlOrientacaoObjeto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
